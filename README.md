@@ -6,3 +6,5 @@ To respectively solve these problems associated with the conventional calculatio
 •	Reduce the parameters (four main ground-based meteorological parameters and six unitless components) required for the calculation of FWI 
 
 These objectives will be achieved by using a Machine Learning algorithm (light gradient-boosting machine (LGBM)) as they can account for system non-linearities with high accuracies
+
+<img width="292" alt="image" src="https://user-images.githubusercontent.com/66778689/206001116-5c771713-b45e-4ed4-99ba-51c20a524e73.png">
