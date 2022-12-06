@@ -1,4 +1,4 @@
-# FWI_model
+# FWI Model
 The calculation of FWI depends on the statistical point-to-point correlation of four main metrology parameters and five other components based on consecutive daily observations. The daily calculation of FWI might pose some form of limitation to determining fire dangers and implementing necessary fire prevention or early bans in situations where FWI values are very high or extreme. Similarly, the computational cost of ground-based measurements increases significantly with computational parameters.
 
 To respectively solve these problems associated with the conventional calculation of FWI, the objective of the model development is to:
